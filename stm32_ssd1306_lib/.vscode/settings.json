@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "mstd_iterator": "cpp",
+        "*.tpp": "cpp",
+        "tuple": "cpp",
+        "mstd_memory": "cpp",
+        "*.tcc": "cpp",
+        "random": "cpp"
+    }
+}
